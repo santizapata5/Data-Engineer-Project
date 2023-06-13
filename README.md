@@ -2,7 +2,7 @@
 
 + [Dashboards](https://lookerstudio.google.com/reporting/1581bfd5-c179-460c-9f98-7e4a57892346)
 + [ML model deployed on Streamlit](https://cristos34-pf-streamlitmigraciondeployen-iostreamlitnewml-14juu5.streamlit.app/)  
-+ [Video of our cloud solution](https://youtu.be/P6oj1JdtmYo) 
++ [Explanation of our cloud solution](https://youtu.be/P6oj1JdtmYo) 
 
 ### Our team
 
